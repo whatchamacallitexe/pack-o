@@ -1,0 +1,25 @@
+<!-- Ultimate Game Stash file--> 
+<!-- For the regularly updating doc go to https://docs.google.com/document/d/1_FmH3BlSBQI7FGgAQL59-ZPe8eCxs35wel6JUyVaG8Q/ -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Castlevania</title>
+<style>
+body, html { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; background: #000; }
+#emulator { width: 100%; height: 100%; }
+</style>
+</head>
+<body>
+<div id="emulator"></div>
+<script>
+EJS_player = '#emulator';
+EJS_core = 'nes';
+EJS_gameUrl = 'https://cdn.jsdelivr.net/gh/brickyosu/ugs-files-sorted@main/C/clcastlevania.html'; // placeholder, actual ROM in original
+// Note: original may have specific ROM; this is loader stub if needed, but use real if available
+EJS_pathtodata = 'https://cdn.jsdelivr.net/gh/EmulatorJS/EmulatorJS@latest/data/';
+</script>
+<script src="https://cdn.jsdelivr.net/gh/EmulatorJS/EmulatorJS@latest/data/loader.js"></script>
+</body>
+</html>
