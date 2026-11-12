@@ -17,4 +17,4 @@ FAILED https://cdn.jsdelivr.net/gh/jackilyna/codemotion2015@6ed8c2fb61182b360a85
 
 FAILED https://cdn.jsdelivr.net/gh/brickyosu/ugs-files-sorted@main/roms/crash.cue: curl: (22) The requested URL returned error: 404
 
-RUFFLE FAIL module 'urllib' has no attribute 'request'
+RUFFLE OK 1 wrappers
