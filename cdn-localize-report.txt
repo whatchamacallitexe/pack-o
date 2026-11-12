@@ -6,18 +6,17 @@ FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a5648
 
 FAILED https://cdn.jsdelivr.net/gh/bubbls/ugs-assets@main/games/cartoonnetworktabletennisultimatetournament/index.html: curl: (22) The requested URL returned error: 404
 
-EMU MISS EmulatorJS/EmulatorJS@latest
-FILE castlevania: https://cdn.jsdelivr.net/gh/brickyosu/ugs-files-sorted@main/C/clcastlevania.html -> assets/cdn/5ec9b410-clcastlevania.html
+EMU OK a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76 cores=fceumm,mednafen_psx,mgba
+FILE cdn: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> b3879e55-fonts-b3879e5526.css
+FILE cdn: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/games/castlevania/Classic%20NES%20Series%20-%20Castlevania%20(USA).gba -> 7c5f51db-Classic_NES_Series_-_Castlevania_USA_.gba
 BASE MISS Stinkalistic/UGS@HEAD/MISC/cheeseisthereason
 FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
 FAILED https://cdn.jsdelivr.net/gh/jackilyna/codemotion2015@6ed8c2fb61182b360a852e0417cc2d6370d5164e/flg/chipschallenge.swf: curl: (22) The requested URL returned error: 404
 
-EMU MISS EmulatorJS/EmulatorJS@latest
 FAILED https://cdn.jsdelivr.net/gh/brickyosu/ugs-files-sorted@main/roms/contra.nes: curl: (22) The requested URL returned error: 404
 
 FAILED https://cdn.jsdelivr.net/gh/jackilyna/codemotion2015@6ed8c2fb61182b360a852e0417cc2d6370d5164e/flg/cookingmama.swf: curl: (22) The requested URL returned error: 404
 
-EMU MISS EmulatorJS/EmulatorJS@latest
 FAILED https://cdn.jsdelivr.net/gh/brickyosu/ugs-files-sorted@main/roms/crash.cue: curl: (22) The requested URL returned error: 404
 
