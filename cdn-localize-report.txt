@@ -1,43 +1,23 @@
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE cactus-mccoy: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE cactus-mccoy: https://cdn.jsdelivr.net/gh/supaub/interstellar-3@8a13c735e7df6d86602b354e45c090405f21f45a/play/flash/swf/cactusmccoy.swf -> ../_shared/22a8b17a56c7-cactusmccoy.swf
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE cactus-mccoy-2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE cactus-mccoy-2: https://cdn.jsdelivr.net/gh/supaub/interstellar-3@8a13c735e7df6d86602b354e45c090405f21f45a/play/flash/swf/cactusmccoy2.swf -> ../_shared/12cabc7a731c-cactusmccoy2.swf
-BASE OK deformed-steve/the-cheese-stash@main/games/candybox2 -> candy-box-1
-BASE REWRITE candy-box-1
-BASE OK bubbls/youtube-playables@main/cannon-balls-3d -> cannon-balls-3d
-BASE REWRITE cannon-balls-3d
-FILE cannon-balls-3d: https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/ytgame.js -> assets/cdn/20058cc1-ytgame.js
-BASE OK bubbls/UGS-Assets@027a7fc4b20820dc401547a74cf4f2ee875cd3e2/capybara clicker -> capybara-clicker
-BASE REWRITE capybara-clicker
-FILE car-drawing: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/style.css -> assets/cdn/5c9e4317-style.css
-FILE car-drawing: https://cdn.jsdelivr.net/gh/lee2sman/everyday@d45d601d2c4d60adf809a0b677c00b7d12aba7e9/96/TemplateData/UnityProgress.js -> assets/cdn/1c97c589-UnityProgress.js
-FILE car-drawing: https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@3c92f983073739a8afc2dab20af78e92f1f54f3a/UI/Panels/card/UnityLoader.js -> assets/cdn/81a647c9-UnityLoader.js
-FILE car-drawing: https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@3c92f983073739a8afc2dab20af78e92f1f54f3a/UI/Panels/card/WebGL.json -> assets/cdn/627f1a64-WebGL.json
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE car-eats-car-2-deluxe: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE car-eats-car-2-deluxe: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@d431881bf387db4522514e401b8d92bc20cf91d8/d2pvIGEwLCA5Vx.swf -> assets/cdn/b94e431d-d2pvIGEwLCA5Vx.swf
-FILE castlevania: https://cdn.jsdelivr.net/gh/EmulatorJS/EmulatorJS@latest/data/loader.js -> ../_shared/9abff16c66bf-loader.js
+FAILED https://cdn.jsdelivr.net/gh/bubbls/ugs-assets@main/games/cartoonnetworktabletennisultimatetournament/index.html: curl: (22) The requested URL returned error: 404
+
+EMU MISS EmulatorJS/EmulatorJS@latest
+FILE castlevania: https://cdn.jsdelivr.net/gh/brickyosu/ugs-files-sorted@main/C/clcastlevania.html -> assets/cdn/5ec9b410-clcastlevania.html
 BASE MISS Stinkalistic/UGS@HEAD/MISC/cheeseisthereason
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE chibi-knight: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE chibi-knight: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@4d639cefdc1880b7f274aabdda9f7523cad837db/chibi-knight-52493ca6.swf -> assets/cdn/5f3d6e0e-chibi-knight-52493ca6.swf
-FILE chips-challenge: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
 FAILED https://cdn.jsdelivr.net/gh/jackilyna/codemotion2015@6ed8c2fb61182b360a852e0417cc2d6370d5164e/flg/chipschallenge.swf: curl: (22) The requested URL returned error: 404
 
-BASE OK bubbls/UGS-Assets@a39ea4b5ce534bf7b1c21000a2a0929fef178a1e/circlo02 -> circlo-o-2
-BASE REWRITE circlo-o-2
+EMU MISS EmulatorJS/EmulatorJS@latest
 FAILED https://cdn.jsdelivr.net/gh/brickyosu/ugs-files-sorted@main/roms/contra.nes: curl: (22) The requested URL returned error: 404
 
-FILE contra: https://cdn.jsdelivr.net/gh/EmulatorJS/EmulatorJS@latest/data/loader.js -> ../_shared/9abff16c66bf-loader.js
-FILE cooking-mama: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
 FAILED https://cdn.jsdelivr.net/gh/jackilyna/codemotion2015@6ed8c2fb61182b360a852e0417cc2d6370d5164e/flg/cookingmama.swf: curl: (22) The requested URL returned error: 404
 
+EMU MISS EmulatorJS/EmulatorJS@latest
 FAILED https://cdn.jsdelivr.net/gh/brickyosu/ugs-files-sorted@main/roms/crash.cue: curl: (22) The requested URL returned error: 404
 
-FILE crash-bandicoot: https://cdn.jsdelivr.net/gh/EmulatorJS/EmulatorJS@latest/data/loader.js -> ../_shared/9abff16c66bf-loader.js
